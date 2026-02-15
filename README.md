@@ -8,11 +8,9 @@ This project provides an **interactive Streamlit dashboard** with fire probabili
 
 # 🌍 Live Application
 
-🔗 Streamlit Live App:  
-https://your-streamlit-link.streamlit.app
+🔗 Live Link:  
+[https://your-streamlit-link.streamlit.app](https://forestfire-prediction-system-hcwvj2bzuxkjcsgmcihdcw.streamlit.app/)
 
-🔗 GitHub Repository:  
-https://github.com/YOUR_USERNAME/forest-fire-prediction-system
 
 ---
 
@@ -167,37 +165,7 @@ forest-fire-prediction-system/
     └── fire_prediction.ipynb
 ```
 
----
 
-# ⚙️ Installation Guide
-
-## Step 1: Clone Repository
-
-```
-git clone https://github.com/YOUR_USERNAME/forest-fire-prediction-system.git
-```
-
-```
-cd forest-fire-prediction-system
-```
-
----
-
-## Step 2: Install Requirements
-
-```
-pip install -r requirements.txt
-```
-
----
-
-## Step 3: Run Application
-
-```
-streamlit run app.py
-```
-
----
 
 # 📦 Requirements
 
@@ -230,29 +198,10 @@ The project follows standard ML pipeline:
 
 ---
 
-# 🌱 Real World Applications
-
-This system can be used by:
-
-- Forest Departments
-- Disaster Management Authorities
-- Environmental Agencies
-- Satellite Monitoring Systems
-- Research Organizations
 
 ---
 
-# 🚀 Future Improvements
 
-Future enhancements include:
-
-- Live NASA satellite integration
-- Weather API integration
-- SMS alerts
-- Email alerts
-- Mobile application
-- Deep Learning models
-- Global fire monitoring system
 
 ---
 
